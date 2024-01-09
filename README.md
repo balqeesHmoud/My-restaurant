@@ -1,2 +1,2 @@
 # My-restaurant
-![resturant wirefram](C:\Users\Student\Desktop)
+![resturant wirefram](./wireframe.jpg)
